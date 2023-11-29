@@ -17,7 +17,11 @@ On our robot, we succeffuly created the mechanum drive and attached the battery 
 ![Chassis build clive](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230927_190005201.MP.jpg?raw=true)
 The nest part of our robot is going to be the claws for grabbing the bottle, these will eventually be able to hold the bottle and make it possible to open it. After this we will be workng on implementing the bottle openong system.
 
-We eventually ditched the idea of two arms and opted just for one claw for grabbing, this is a much simpiler design and will allow us to be able to use less motors and write less code
+We eventually ditched the idea of two arms and opted just for one claw for grabbing, this is a much simpiler design and will allow us to be able to use less motors, write less code, and have our robot way less
+![Chassis build socks](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20231129_194516206.MP.jpg?raw=true)
+![Chassis build socks](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20231129_194518317.MP.jpg?raw=true)
+
+We also participated in many different games agaisnt other robots in our class icluding sumo and soccer.
 ![Chassis build socks](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20231127_204215246.MP.jpg?raw=true)
 ![Chassis build socks](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20231127_204206621.MP.jpg?raw=true)
 ![Chassis build socks](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20231127_204209103.MP.jpg?raw=true)
